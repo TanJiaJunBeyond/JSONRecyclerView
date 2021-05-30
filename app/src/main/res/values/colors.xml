@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="default_text_color">#333333</color>
+    <color name="default_key_color">#92278f</color>
+    <color name="default_string_color">#3ab54a</color>
+    <color name="default_number_color">#25aae2</color>
+    <color name="default_boolean_color">#f98280</color>
+    <color name="default_url_color">#61d2d6</color>
+    <color name="default_null_color">#f1592a</color>
+
+</resources>

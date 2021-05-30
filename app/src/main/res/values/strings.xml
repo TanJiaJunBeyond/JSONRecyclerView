@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">JSONRecyclerView</string>
+
+    <string name="close">close</string>
+    <string name="expand">expand</string>
+
+</resources>
