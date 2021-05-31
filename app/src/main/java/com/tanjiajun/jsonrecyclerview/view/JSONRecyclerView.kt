@@ -13,7 +13,7 @@ import org.json.JSONArray
 import org.json.JSONObject
 
 /**
- * Created by TanJiaJun on 3/24/21.
+ * Created by TanJiaJun on 5/30/21.
  */
 class JSONRecyclerView @JvmOverloads constructor(
     context: Context,
