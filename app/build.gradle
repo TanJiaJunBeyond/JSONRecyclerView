@@ -1,15 +1,14 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 apply plugin: 'com.github.dcendents.android-maven'
-group = 'com.tanjiajun.widget'
+group = 'com.github.TanJiaJunBeyond'
 
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.tanjiajun.jsonrecyclerview"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
