@@ -56,7 +56,7 @@ dependencies {
 然后将**JsonRecyclerView**添加到**xml文件**中，代码如下所示：
 
 ```xml
-<com.example.okhttp3demo.view.JsonRecyclerView
+<com.tanjiajun.jsonrecyclerview.view.JSONRecyclerView
     android:id="@+id/rv_json"
     android:layout_width="match_parent"
     android:layout_height="match_parent" />
