@@ -7,7 +7,7 @@ import java.util.regex.Pattern
  */
 private val urlPattern: Pattern = Pattern.compile(
     // 验证是否是http://、https://、ftp://、rtsp://、mms://其中一个
-    "((http|https|ftp|rtsp|mms)?://)?" +
+    "^((http|https|ftp|rtsp|mms)?://)?" +
             // 判断字符是否为FTP地址（ftp://user:password@）
             // 判断字符是否为0到9、小写字母a到z、_、!、~、*、'、(、)、.、&、=、+、$、%、-其中一个，匹配零次或者一次
             "(([0-9a-z_!~*'().&=+\$%-]+: )?" +
