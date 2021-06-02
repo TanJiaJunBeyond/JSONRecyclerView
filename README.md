@@ -476,6 +476,10 @@ private val urlPattern: Pattern = Pattern.compile(
 )
 ```
 
+该**正则表达式**可视化图如下所示：
+
+![UrlRegularExpression.png](https://github.com/TanJiaJunBeyond/ImageRepository/raw/master/UrlRegularExpression.png)
+
 ## JSONRecyclerView
 
 该类用于**将要处理的数据以列表的方式展示到视图**，注释写得比较清楚，这里就不再赘述了，代码如下所示：
@@ -591,6 +595,12 @@ class JSONRecyclerView @JvmOverloads constructor(
 
 }
 ```
+
+# 题外话
+
+介绍一个**将正则表达式可视化的网站**，网址如下：
+
+[Regexper](https://regexper.com)
 
 
 
